@@ -11,5 +11,5 @@ Endpoints:
 }
 ```
 
-`[GET] localhost:8080` - Get all screenshots data 
+`[GET] localhost:8080` - Get all screenshots data  
 `[GET] localhost:8080/image/:id` - Get image
